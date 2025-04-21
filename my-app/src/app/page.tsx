@@ -1,5 +1,4 @@
-import Image from "next/image";
-import Navbar from "./components/Navbar";
+
 import Homepg from "./components/Homepg";
 import Homepg2 from "./components/Homepg2";
 import Homepg4 from "./components/Homepg4";
