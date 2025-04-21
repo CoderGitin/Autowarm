@@ -1,5 +1,4 @@
 import React from 'react'
-import { CheckCircle2Icon, PlayCircleIcon } from 'lucide-react';
 import Image from 'next/image'
 
 export default function Homepg() {
