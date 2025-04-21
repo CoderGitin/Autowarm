@@ -1,6 +1,4 @@
 import React from "react";
-import { CheckCircle, Mail, BarChart2, Zap, Brain } from "lucide-react";
-import { describe } from "node:test";
 import Image from "next/image";
 export default function PricingPage() {
   return (
